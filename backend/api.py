@@ -33,7 +33,7 @@ def createListing():
     
     if existing_role:
         # Create a new RoleListing entry for the existing role
-        role_listing = RoleListing(
+        role_listing = RoleListing
             Deadline=data['Deadline'],
             Date_Posted=data['Date_Posted'],
             Country=data['Country'],
