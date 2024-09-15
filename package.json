@@ -3,6 +3,7 @@
     "axios": "^1.5.1",
     "esbuild": "^0.18.20",
     "js-cookie": "^3.0.5",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "vitest": "^0.34.6"
   }
 }
